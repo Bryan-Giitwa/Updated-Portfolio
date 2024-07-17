@@ -10,7 +10,7 @@ Before you begin, ensure you have met the following requirements:
 
 - Git must be installed on your operating system.
 
-## Installing vCard
+## Installing vCard--Personal-portfolio
 
 To install vCard, follow these steps:
 
@@ -26,7 +26,7 @@ Windows:
  git clone https://github.com/Bryan-Giitwa/vCard--Personal-portfolio.git
 ```
 
-## Using vCard
+## vCard--Personal-portfolio
 
 To use vCard, follow these steps:
 
